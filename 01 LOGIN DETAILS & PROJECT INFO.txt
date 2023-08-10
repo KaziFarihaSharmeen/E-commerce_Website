@@ -2,7 +2,7 @@
 
 **Database Name: ecommerceweb**
 
-**Developed by m salman whatsapp +923439293686**
+
 
 **Recommended PHP Version 5.6, 7.4**
 
